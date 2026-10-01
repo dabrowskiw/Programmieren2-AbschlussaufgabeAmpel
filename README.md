@@ -6,7 +6,7 @@ In dieser Aufgabe entwickeln Sie eine automatisierte Erkennung von Ampelsignalen
 
 Sie sollen ein Modul entwickeln, welches ein Bild sowie die Koordinaten der Ampel bekommt und die Klassifikation - rot, gelb oder grün - zurückgibt. Zudem sollen Sie ein GUI entwickeln, mit dem die Funktionalität Ihres Moduls überprüft werden kann.
 
-Beispielbilder von einer [Webcam in Haney, die eine Ampel anzeigt](https://www.windy.com/-Webcams/Canada/British-Columbia/Haney/-Hwy-(Lougheed-Hwy)-at-Bypass/nd-Street-looking-south/webcams/1609183932?53.422,12.640,9) sowie eine Konfigurationsdatei ```config.txt``` mit passenden Koordinaten finden Sie im Ordner ```data```.
+Beispielbilder von einer [Webcam, die eine Ampel anzeigt](https://www.windy.com/webcams/1735214559?41.344,-86.309,8,p:cams) sowie eine Konfigurationsdatei ```config.txt``` mit passenden Koordinaten finden Sie im Ordner ```data```.
 
 ## Benotung
 
